@@ -1,4 +1,4 @@
-# OpenInfra25-ScientificSIG-LightingTalks
+# Open Infra 25: Scientific SIG's Lighting Talks
 
 Repository for the Scientific Special Interest Group to post Lighting Talks material: links to videos, demo code, ...
 
